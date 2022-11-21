@@ -3,6 +3,7 @@
   <PropertyGroup>
     <Description>Fully-featured Serilog sink that logs events to remote syslog servers using UDP, TCP, and TLS over TCP, and can also use POSIX libc syslog functions to write to the local syslog service on Linux systems. Both RFC3164 and RFC5424 format messages are supported.</Description>
     <VersionPrefix>2.0.6</VersionPrefix>
+    <IsPublishable>false</IsPublishable>
     <Authors>Ionx Solutions</Authors>
     <Copyright>Copyright © Ionx Solutions 2018</Copyright>
     <TargetFrameworks>net462;netstandard2.0;netcoreapp3.1</TargetFrameworks>
