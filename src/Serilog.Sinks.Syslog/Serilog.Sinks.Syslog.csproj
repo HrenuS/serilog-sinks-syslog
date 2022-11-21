@@ -6,7 +6,7 @@
     <IsPublishable>false</IsPublishable>
     <Authors>Ionx Solutions</Authors>
     <Copyright>Copyright © Ionx Solutions 2018</Copyright>
-    <TargetFrameworks>netstandard2.0;netcoreapp3.1</TargetFrameworks>
+    <TargetFramework>net6.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <AssemblyName>Serilog.Sinks.Syslog</AssemblyName>
